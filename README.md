@@ -21,7 +21,7 @@ It features two screens and shows how to navigate **forward** and **back** with 
 
 Here's a glimpse of the app in action:
 
-![App Screenshot](image/screenshot.png)
+![App Screenshot](image/screenshot.jpg)
 
 > **Tip:** To display your screenshot, put the image inside an `image` folder in your project root, then reference it as shown above.
 
